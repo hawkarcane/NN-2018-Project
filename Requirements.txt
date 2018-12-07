@@ -1,0 +1,12 @@
+wave
+json
+matplotlib
+numpy
+keras
+tqdm
+pyaudio
+scipy
+speechpy
+sklearn
+pydot
+pandas
